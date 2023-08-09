@@ -3,10 +3,6 @@ import os
 import shutil
 
 
-
-
-folder_path = '/Users/gautamnair/PycharmProjects/pdfReader/PDFS' #ENTER THE PATH OF THE PDF TO THE VARIABLE
-
 '''
 Converts the PDF to a folder of images
 '''
