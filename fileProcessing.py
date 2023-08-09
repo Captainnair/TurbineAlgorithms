@@ -1,18 +1,15 @@
-import cv2
 import pdf2image
 import os
 import shutil
 
-print(os.getcwd())
-
-
-folder_path = '/Users/gautamnair/PycharmProjects/pdfReader/PDFS'
 
 
 
+folder_path = '/Users/gautamnair/PycharmProjects/pdfReader/PDFS' #ENTER THE PATH OF THE PDF TO THE VARIABLE
 
-
-
+'''
+Converts the PDF to a folder of images
+'''
 def PDFToImage(pdfPath, res=400):
     imageList = pdf2image.convert_from_path(pdfPath, res, poppler_path='/opt/homebrew/bin')
 
@@ -30,32 +27,18 @@ def PDFToImage(pdfPath, res=400):
         image.save(f'{os.getcwd() + "/" + filename}/{filename}_{i}.png', 'PNG')
 
 
-#PDFToImage('/Users/gautamnair/PycharmProjects/pdfReader/PDFS/MOM.pdf')
-
 def grayscale(dir):
-    #name = dir.rsplit('/')[-1]
-    #newFolder = "BINARY_" + name
-
-    # try:
-    #     os.mkdir(newFolder)
-    # except FileExistsError:
-    #     print("Folder already exists")
-    #     return
     for filename in os.listdir(dir):
         f = cv2.imread(dir+"/"+filename)
 
         gray_image = cv2.cvtColor(f, cv2.COLOR_BGR2GRAY)
         thresh, im_bw = cv2.threshold(gray_image, 160,230, cv2.THRESH_BINARY)
-        #cv2.imwrite(newFolder + "/" + filename, im_bw)
         cv2.imwrite(dir + '/'+ filename, im_bw)
 
 
-
-#grayscale('/Users/gautamnair/PycharmProjects/pdfReader/MOM')
-
-
-import numpy as np
-
+'''
+Code to straighten the pdf
+'''
 def getSkewAngle(cvImage) -> float:
     # Prep image, copy, convert to gray scale, blur, and threshold
     newImage = cvImage.copy()
@@ -102,29 +85,19 @@ def deskew(cvImage):
     return rotateImage(cvImage, -1.0 * angle)
 
 def finalDeskew(dir):
-    # name = dir.rsplit('/')[-1]
-    # newFolder = "NOSKEW_" + name
-
-    # try:
-    #     os.mkdir(newFolder)
-    # except FileExistsError:
-    #     print("Folder already exists")
-    #     return
     for filename in os.listdir(dir):
         f = cv2.imread(dir + "/" + filename)
 
         straight = deskew(f)
         cv2.imwrite(dir + "/" + filename, straight)
 
-#finalDeskew('/Users/gautamnair/PycharmProjects/pdfReader/MOM')
 
 
 import pytesseract
 import cv2
 from PIL import Image
 
-
-
+#Uses a modifer to use rows instead of columnms
 pytesseract.pytesseract.tesseract_cmd = r'/opt/local/bin/tesseract'
 custom_config_psm6 = r'--oem 3 --psm 6 -c page_separator='''
 
@@ -150,3 +123,4 @@ if __name__ == '__main__':
             with open(folder_path + "_Text" + '/' + realFile + '.txt', 'a') as f:
                 f.write(str(ocr_result))
                 f.write("\n\n")
+        shutil.rmtree(realFile)
