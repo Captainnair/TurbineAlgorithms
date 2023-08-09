@@ -1,0 +1,278 @@
+/‘I"URBII‘V‘.ES:
+FORMAT FOR TURBINE NAME PLATE DETAILS
+FORMAT NO. | SSD/FOR/250 DATE 6-12-2018
+PROJECT M/s M.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu
+TURBINE
+DETAILS | ¢ sosim 350 BP il
+TURBINE DATA
+[ContractNo. | [ Year of Manufacture: |
+STEAM PARAMTERS | PRESSURE TEMPERATURE
+et | 40Kgem2 | 00| 734 degF
+| Extracton | @ - [ 00 .
+ Bleed [ o [ 00000
+.
+6637.5 RPM .
+I* Critical Speed Range —-- -
+7300-7630RPM
+GEARBOX DATA
+Make — TTL
+[ Model | 00 [Serialno. |
+[ Power [ 0 [GearRatio _
+[OderNo. | | SewviceFactor
+Cnputfoupst || TechGeaPinion |
+Oil Details (as mentioned on
+name tally)
+ALTERNATOR DATA s
+MachineNo.
+Type T TSemano [
+Voltage 000000 [Curent
+Remarks:
+All as per nameplate observed
+Result:
+TTL ENGINEER CLIENT’S REE&E&M@E’E
+m J. Bhowal / B. Nagababu Name \ <q mﬁl\NOh
+R W"
+
+
+DN . s
+’mvem
+FORMAT NO: SSD/FOR/217 TURBINES
+M/s M.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu
+romeme | _Fsze | smno. | power | omvenequr/make
+DETAILS
+DESI ACTUAL
+- NA.
+—=
+O
+LP Laby Clearance _
+e
+42 e | |2y
+5 [SmowwTpSalClamee | |
+s 7 W&
+s | o
+E—
+6 Shroud to Nozzle Clearance _
+Ist stage 2.5
+e 5
+w
+0.06
+| 2 |RotorFrontBearingjournal | [ 001
+0.03
+=
+L.P Laby Journal - 0.04
+o AT — o —
+o
+
+
+| : |
+FORMAT FOR ROTOR DUMP TEST (Axial Movement-Load on Thrust Pads) |
+FORMAT NO. SSD/FOR/220 6-12-2018 l
+PROJECT M/s M.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu
+TURBINE DETAILS
+Fr-525 M.M. 053 600 BHP Mk
+* CASE-1: TOP CASING OPEN
+' PARAMETER | RECOMMENDED (mm) | ACTUAL(mm) | Further movement restricted by
+1.20-2.50 1.09 o
+0.25-1.00 0.76 S
+Open Float 0.35-0.55 0.28 |
+Total Dump (Sum) 2.00-4.00 1.60 _ |
+e CASE-2: TOP CASING BOX-UP t
+PARAMETER RECOMMENDED (mm) | ACTUAL(mm) | _REMARKS |
+120250 o |
+0.25-1.00 0.76 i
+Open Float 0.35-0.55 0.28 _ |
+Total Dump (Sum) 2.00-4.00 BN
+NOTE : _ 1
+* Recommended value may vary from site to site and model to model. In case of any deviation please |
+consult Office.
+* Lower range recommended values are for Smaller Turbine models.
+* Higher range recommended values are for Bigger Turbine models.
+* There should not be major change in readings after tightening of Top Casing.
+* RESULT:-
+All ok and satisfactory
+* REMARKS:- All ok and satisfactory :
+| TTLENGINEER | CLIENT’S REPRESENTATIVE )
+Signat i : ,
+X M ¥
+
+
+B . f
+’I'IVEIII
+FORMAT NO: SSD/FOR/217 TURBINES
+RUN OUTS ON HIGH SPEED COUPLING IN COUPLED CONDITION
+H.S Coupling flange at rotor end [ e
+H.S Coupling flange at Pinion end _ ———
+OIL SEAL LABY CLEARANCES
+Rotor front Oil Seal laby clearance o
+Rotor after oil seal laby clearance 1™ —-
+* REMARKS:
+e RESULT:
+* Note:
+¢ Rotor is in active side during inspection of Shroud to nozzle clearance and
+nozzle to blade clearance. :
+» Put additional sheet if require
+» All Radial clearances checked by Tape test.
+TTL ENGINEER CLIENT’'S REPRESENTATIVE
+3
+W
+
+
+>, .
+’I'IVEIII
+FORMAT NO: SSD/FOR/219 TURBINES
+FORMAT FOR TG SET FINAL BOX UP
+corwaTno. | | oae | enpas
+PROJECT M/s M.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu
+| smno. | powsn | rwveneour jmae
+roemE | FRSIZE RIvEN EQUL /
+DETAILS Fr-525 M.M. 350 BHP Mill-1
+INSPECTION SCOPE _: Bearing Clearances and Float
+FLOATS:
+Rotor:- 0.28 mm
+Pinion:- 1.05 mm
+Gear:- 0.20 mm
+Lay shaft:- N.A.
+CLEARANCES:-
+Location Type of Bearing Clearances (in mm)
+Rotor After Plain bearing 0.29
+Pinion Fore Plain bearing 0.28
+t
+o
+DE side Alternator
+N.A.
+NDE side Alternator
+o
+
+
+U
+5 &
+E o= ‘
+S 3
+2 8
+E_*—_] a.
+| I Fga
+[#4]
+a
+55 :
+| \ i g
+II. I FU%DQ
+x (X} o‘:'-o
+o x : 5
+£ 2 5-38
+£ = E 2 O
+£ =S2 8 : 15>
+2 | I '
+d 2282 £
+! & 5822 2 :
+< |8 |8 N : i a
+Z o i : < O ﬂgﬁ)g 5
+=) < 30 .oh F:'D.Fd 1
+- ‘ '-* '
+1 Uz ’-‘ Q
+Z. : . Q i 0 O
+N < gbgg m
+. 5 o
+| . > 9.4 ¥ o =
+l<- = . EE § 8 g :
+= I Z = : C‘esdqq : : g
+< E - QJE:‘CG.!: 'Q E :
+O = —D:’HF‘ 5 :
+bn ﬁws,d ) < | =0
+o s 25 8 217
+5 -*:Oo“ -
+oy — FD::'J:'_(
+v [ FD:t:gd
+| | B.ﬁa'—‘
+g ¥ i
+=~ |E 5 i
+U ‘O = émE'H B
+| H O | o BEPOB =
+am | (2 = & : it FD
+v = i = &= o ‘g B0 5 Bgv%ﬂ gb
+< o o p.d = g -9 B & 2 5 i m
+O = = . = 5 i Ehﬁaﬁ Z
+g B 5 8 i E ! g B - ib %ggg - ‘.
+= - o = < H ‘
+O H E ; g 8 : c » 8 < ano&’ ~ N
+Qg O | m ; g o O o i:q_)om = (R
+< = & |H s |© 2 | o |~ s -::.*::ﬁﬂ% : l
+m &= E — S = P} 3} H 8 NFC:.E
+5 (@ | & = |8 B ° 2 & | & 2 |8 DBM"'S 2 ”.
+o) r;l = o3 Q<-: E : < Qd : : | ‘
+. : : : : g o o o = = |_"-',_C>>\ INY
+>\ | H o ﬁ : : o EP a _ o o 'Boq_)-t: oy S
+[+ O 1= O C = Y = O — — ~ "LHOH:: '
+g || ; Seo o e S| Aal= = - s 288 ¢+
+O SR p= EE: o o | © w2 o ¥$8""ﬂ ‘
+Sz = = = = o 21H |8 - “”DOE H v
+L : I3 : |2 58 |5 iz <-—‘=:D> ] \
+H ﬁ s 1= s |© EB"d—ﬁcc @
+a2 |8 = | E|% = | o mﬁaég :
+a |lals|® 5|2 2SS ¢ 2|, | 2
+: 5 2 S0 8 3 =
+5 "7 : ;
+jad - 9 F :
+= 8l &
+= | Z |
+
+
+‘—'?ﬁf !&,";}é! (,'i.‘jf"
+~" TURBINES
+FORMAT FOR PRESERVATION OF TURBINE AFTER OVERHAULING
+FORMAT NO. | SSD/FOR/246 _ 612-2018
+PROJECT M/s M.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu
+DETALLS i
+Observations Remarks
+1 | Check auto/start stop of Barring gear and its N.A. -
+interlock with lube oil
+TG set should be put on Barring gear once in
+a week
+Check for lube oil circulation in all bearings Checked Satisfactory
+4 | Spray anti-corrosive paint on the turbine Graphite powder Satisfactory
+internals sprayed
+thickness of the paint should be as minimum as possible
+Use of de-humidifier (i available) _
+Note- If shutdown is more than one month use anti-corrosive paint.
+ REMARKS:
+All ok and satisfactory
+e RESULT:
+TTL ENGINEER CLIENT'S REPRESENTATIVE
+Name J. Bhowal / B. Nagababu m J. W\NW\
+Signature - AL
+onatwre | - ) gt | Sonawre | VU
+J (\l}r/\ L/ |
+w WY
+
+
+- T‘L)}mw;f:;";ﬁ'
+FORMAT FOR HIGH SPEED ALIGNMENT |
+1
+PROJECT M/s ML.R. Krishnamurthy Coop. Sugar Mill Ltd. Sethiyatope, Tamil Nadu {
+mosze | smno. | powsn | privenEqur mace
+Fr-525 M.M. 053 600 BHP Mill )
+e HIGH SPEED ALIGNMENT READING:
+RADIAL AXIAL
++0.1 0.00
+— T
+/ ‘ ./'F l “-"\
+RN ;TN
+0.00 = - 0.2 +0.05 '{’_———F L »
+\ / \
+S~ |
++0.07
+‘ o Looking from . Turbine End
+o Dial Pointeron : Pinion Shaft Flange
+o Rotation :  Clockwise
+o DBSE : mm
+O
+e LEVEL: MASTER LEVEL ON GEAR JOURNAL
+o NDE on X axis up towards
+e REMARKS:-
+e RESULT:- OK
+TTL ENGINEER CLIENT'S REPRESENTATIVE o i
+Name J. Bhowal / B, Nagababu m N WU
+. il L a6 A |
+NP /
+Y
+
+
